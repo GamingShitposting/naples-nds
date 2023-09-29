@@ -5,11 +5,11 @@ date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
 
-title: "Nintendo DS Naples"
-description: "A simple Jekyll theme for words and pictures."
+title: "NDS Naples"
+description: "We scugnizzi, and our enjoyment the Nintendo handheld."
 baseurl: "/naplesnds"
-url: https://gamingshitposting.github.io/naplesnds/
-logo: "/images/so-simple-site-logo.png" # path of site logo, e.g. "/assets/images/logo.png"
+url: "https://gamingshitposting.github.io/naplesnds/"
+logo: "/media/naplesnds-logo.png"
 
 mathjax:
   enable: true
@@ -52,13 +52,6 @@ defaults:
   - scope:
       path: "_posts"
       type: posts
-    values:
-      layout: post
-      comments: true
-      share: true
-  - scope:
-      path: "_recipes"
-      type: recipes
     values:
       layout: post
       comments: true

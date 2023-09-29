@@ -6,7 +6,7 @@ read_time: true
 words_per_minute: 200
 
 title: "NDS Naples"
-description: "We scugnizzi, and our enjoyment the Nintendo handheld."
+description: "We scugnizzi, and our enjoyment of the Nintendo handheld."
 baseurl: "/naplesnds"
 url: "https://gamingshitposting.github.io"
 logo: "/media/naplesnds-logo.png"

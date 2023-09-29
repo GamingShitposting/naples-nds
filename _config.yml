@@ -64,32 +64,16 @@ defaults:
       comments: true
       share: true
 
-author:
-  name: Michael Rose
-  picture: /images/michael-rose-photo.jpg
-  email:
-  twitter: mmistakes
-  links:
-    - title: Twitter
-      url: https://twitter.com/mmistakes
-      icon: fab fa-twitter-square
-    - title: Instagram
-      url: https://instagram.com/mmistakes
-      icon: fab fa-instagram
-    - title: GitHub
-      url: https://github.com/mmistakes
-      icon: fab fa-github-square
-
 footer_links:
-  - title: Twitter
-    url: https://twitter.com/mmistakes
-    icon: fab fa-twitter-square
-  - title: Instagram
-    url: https://instagram.com/mmistakes
-    icon: fab fa-instagram
-  - title: GitHub
-    url: https://github.com/mmistakes
-    icon: fab fa-github-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+  - title: Telegram CMgnoranza (Channel)
+    url: https://t.me/cmgnoranza
+    icon: fab fa-telegram-square
+  - title: Telegram Gaming Shitposting (Group)
+    url: https://t.me/gamingshitpost
+    icon: fab fa-telegram-square
+  - title: GitHub
+    url: https://github.com/GamingShitposting
+    icon: fab fa-github-square

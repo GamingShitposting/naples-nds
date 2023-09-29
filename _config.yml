@@ -1,18 +1,18 @@
 theme: jekyll-theme-so-simple
 skin: "/assets/css/skins/default.css"
-locale: en-US
-title: "So Simple Development Site"
-description: "A simple Jekyll theme for words and pictures."
-baseurl: "/naplesnds"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: "/images/so-simple-site-logo.png" # path of site logo, e.g. "/assets/images/logo.png"
+locale: en
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
+
+title: "Nintendo DS Naples"
+description: "A simple Jekyll theme for words and pictures."
+baseurl: "/naplesnds"
+url: https://gamingshitposting.github.io/naplesnds/
+logo: "/images/so-simple-site-logo.png" # path of site logo, e.g. "/assets/images/logo.png"
+
 mathjax:
   enable: true
-#  combo: "tex-mml-chtml"
-#  tags: "none"
 google_fonts:
   - name: "Source Sans Pro"
     weights: "400,400i,700,700i"
@@ -67,13 +67,13 @@ defaults:
 footer_links:
   - title: Feed
     url: atom.xml
-    icon: fas fa-rss-square
+    icon: fas fa-rss
   - title: Telegram CMgnoranza (Channel)
     url: https://t.me/cmgnoranza
-    icon: fab fa-telegram-square
+    icon: fab fa-telegram
   - title: Telegram Gaming Shitposting (Group)
     url: https://t.me/gamingshitpost
-    icon: fab fa-telegram-square
+    icon: fab fa-telegram
   - title: GitHub
     url: https://github.com/GamingShitposting
-    icon: fab fa-github-square
+    icon: fab fa-github

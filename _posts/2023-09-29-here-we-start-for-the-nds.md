@@ -1,5 +1,5 @@
 ---
-title: Here we start, for the NDS.
+title: "Here we start, for the NDS."
 image:
   path: "/media/craiyon_020855_girls_playing_with_a_nintendo_ds.webp"
   thumbnail: "/media/craiyon_020855_girls_playing_with_a_nintendo_ds.webp"

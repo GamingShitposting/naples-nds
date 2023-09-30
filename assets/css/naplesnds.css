@@ -10,3 +10,31 @@ body {
     width: auto !important;
     max-height: 75vh !important;
 }
+
+/* for current and future experiments
+.ptc-background {
+    background-image: url("ptc-tile.png");
+}
+.ptc-msgbox {
+    margin: 8px;
+    border: 2px solid #FB0E0E;
+    border-radius: 5px;
+    background-color: white;
+    overflow-wrap: break-word;
+    overflow: hidden;
+}
+.ptc-title {
+    border-right: 2px solid #FB0E0E;
+    border-bottom: 2px solid #FB0E0E;
+    background-color: #FBBABA;
+    width: 25%;
+    height: 20%;
+    color: #FB0E0E;
+    border-bottom-right-radius: 5px;
+}
+usage self note: edit the posts HTML template to fit this code in the content piece:
+<div class="page-content">
+<div class="ptc-background"> 
+<div class="ptc-msgbox"> 
+<div class="ptc-title">Post</div> 
+<div class="e-content">

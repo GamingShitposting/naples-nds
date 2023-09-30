@@ -1,0 +1,1 @@
+{% include emulator platform='nds' rom='https://octospacc.gitlab.io/ROMs-Archive-Misc/Picross-DS-Demo.nds' %}

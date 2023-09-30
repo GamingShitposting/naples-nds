@@ -4,7 +4,7 @@ octt:
   links:
     - title: "Website"
       url: "https://hub.octt.eu.org"
-      icon: "fab fa-globe"
+      icon: "fas fa-globe"
 
 arves:
   name: "Arves"
@@ -16,4 +16,4 @@ xilog:
   links:
     - title: "Website"
       url: "https://alanr.me"
-      icon: "fab fa-globe"
+      icon: "fas fa-globe"

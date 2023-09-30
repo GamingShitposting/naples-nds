@@ -1,5 +1,11 @@
 @import "./skins/default.css";
 
+body {
+    background-color: #fff;
+    background-image: url('../../media/nds-tile-square.png');
+    background-repeat: repeat;
+}
+
 .page-image img {
     width: auto !important;
     max-height: 75vh !important;

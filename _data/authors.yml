@@ -1,3 +1,19 @@
-Octt:
+octt:
   name: "Octt"
   picture: "https://gitlab.com/uploads/-/system/user/avatar/6083316/avatar.png"
+  links:
+    - title: "Website"
+      url: "https://hub.octt.eu.org"
+      icon: "fab fa-globe"
+
+arves:
+  name: "Arves"
+  picture: "https://avatars.githubusercontent.com/u/4847635"
+
+xilog:
+  name: "Xilog"
+  picture: "https://avatars.githubusercontent.com/u/19237297"
+  links:
+    - title: "Website"
+      url: "https://alanr.me"
+      icon: "fab fa-globe"

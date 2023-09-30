@@ -1,5 +1,5 @@
 theme: jekyll-theme-so-simple
-skin: "/assets/css/skins/default.css"
+skin: "/assets/css/skins/naplesnds.css"
 locale: en
 date_format: "%B %-d, %Y"
 read_time: true
@@ -9,7 +9,7 @@ title: "NDS Naples"
 description: "We scugnizzi, and our enjoyment of the Nintendo handheld."
 baseurl: "/naplesnds"
 url: "https://gamingshitposting.github.io"
-logo: "/media/naplesnds-logo.png"
+logo: "https://i.pinimg.com/originals/d0/bb/47/d0bb4753d0b88fa1e45b1d46a6f9a2bf.jpg"
 
 mathjax:
   enable: true
@@ -18,12 +18,6 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-
-google_analytics:
-disqus:
-  shortname:
-twitter:
-  username:
 
 liquid:
   error_mode: strict

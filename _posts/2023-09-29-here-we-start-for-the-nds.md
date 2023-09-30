@@ -1,8 +1,9 @@
 ---
 title: Here we start, for the NDS.
 image:
-  path: /media/craiyon_020855_girls_playing_with_a_nintendo_ds.webp
-author: Octt
+  path: "/media/craiyon_020855_girls_playing_with_a_nintendo_ds.webp"
+  thumbnail: "/media/craiyon_020855_girls_playing_with_a_nintendo_ds.webp"
+author: octt
 last_modified_at: 2023-09-30
 ---
 
@@ -14,4 +15,4 @@ There's a lot of good reasons to remember the Nintendo DS. In 2004, in an heartb
 
 Despite it being, like any Nintendo product, a closed console where no fun is allowed outside of the still really colorful boundaries set by the hardware house, the hacking community eventually sprung up, and it was inevitable that this event alone would have raised the popularity (and sales!) of the Nintendo DS even further: with the infamous flashcart, one could now run homebrew programs, created and shared freely by fellow DS lovers, and get the most out of their handheld.
 
-This is were we used to stand, and in retrospect we say it was so good, even better than what we thought at the time. Great adventures await us, as we go back in time by two decades. Subscribe to [the blog feed]({{ site.url }}/atom.xml) to never lose any details of our things, and join [the Telegram group](https://t.me/gamingshitpost) to get a chance of being part of what we're up to in our spare time.
+This is were we used to stand, and in retrospect we say it was so good, even better than what we thought at the time. Great adventures await us, as we go back in time by two decades. Subscribe to [the blog feed]({{ site.url }}{{ site.baseurl }}/atom.xml) to never lose any details of our things, and join [the Telegram group](https://t.me/gamingshitpost) to get a chance of being part of what we're up to in our spare time.

@@ -1,5 +1,5 @@
 theme: jekyll-theme-so-simple
-skin: "/assets/css/skins/naplesnds.css"
+skin: "/assets/css/naplesnds.css"
 locale: en
 date_format: "%B %-d, %Y"
 read_time: true

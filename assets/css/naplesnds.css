@@ -1,1 +1,6 @@
 @import "./skins/default.css";
+
+.page-image img {
+    width: auto !important;
+    max-height: 75vh !important;
+}

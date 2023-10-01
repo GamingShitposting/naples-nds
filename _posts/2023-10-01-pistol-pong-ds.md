@@ -25,7 +25,7 @@ A quite fun fact (but which got me a bit scared...) is that... well, I was havin
 
 The game continued playing just fine though, except for the audio. Take a look at the video I shoot (unfortunately, it doesn't catch the moment the glitch got triggered):
 
-<video src="{{ '/media/entries/pistol-pong-ds/glitch.mkv' | absolute_url }}"></video>
+<video src="{{ '/media/entries/pistol-pong-ds/glitch.mp4' | absolute_url }}" controls="controls"></video>
 
 For the end of this review, here you can go and visit the official Git repository for the game (which is libre software under the GPL-3.0), where you can find the code and assets as well as the compiled .NDS ROM, for trying on your own terms: <https://github.com/Jonatan6/Pistol-Pong-DS>. Or, maybe, you can try the game via the embedded web emulator below for a quick evaluation, too! Give it a shot (get it?), really.
 

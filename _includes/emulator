@@ -1,3 +1,3 @@
 {% if include.platform == 'nds' %}
-<iframe src="https://octospacc.gitlab.io/Web-Archives-Misc/Repo/DeSmuME/#RomUrl={{ include.rom }}"></iframe>
+<iframe class="AppFrame" src="https://octospacc.gitlab.io/Web-Archives-Misc/Repo/DeSmuME/#RomUrl={{ include.rom }}"></iframe>
 {% endif %}

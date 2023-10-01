@@ -11,6 +11,11 @@ body {
     max-height: 75vh !important;
 }
 
+iframe.AppFrame {
+    width: 100%;
+    min-height: 75vh;
+}
+
 /* for current and future experiments
 .ptc-background {
     background-image: url("ptc-tile.png");

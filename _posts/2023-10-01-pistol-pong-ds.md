@@ -3,7 +3,7 @@ title: "Handheld Pong, now with firearms! (Pistol Pong DS)"
 image:
   path: "/media/covers/craiyon_111643_pong_classic_1972_videogame_but_with_pistols__side_view_of_player_shooting__ball_in_frame.webp"
   thumbnail: "/media/covers/craiyon_111643_pong_classic_1972_videogame_but_with_pistols__side_view_of_player_shooting__ball_in_frame.webp"
-  caption: "Picture from [Craiyon](https://craiyon.com)"
+  caption: "Picture from featured and [Craiyon](https://craiyon.com)"
 author: octt
 ---
 
@@ -17,7 +17,7 @@ Indeed, the entire gimmick of this reproposition is that we (and the other playe
 
 The gameplay is quite barebones, but I don't think that's bad – you can see a short GIF below. It's fun for a few minutes, but I would say the sound effects can sometimes get on my nerves, some are probably too loud. Sadly, there's no music, we're going full old-school here.
 
-![Short gameplay against the computer.](/media/entries/pistol-pong-ds/game-short.gif)
+![Short gameplay against the computer.]({{ '/media/entries/pistol-pong-ds/game-short.gif' | absolute_url }})
 
 I couldn't try it, as I'm quite a lonely loli, but I bet the 2-player mode could be fun. As the first player keeps their control scheme, the opponent will use X and B to move up and down, and Y to shoot, and I'm sure that trying to shoot your friend while distracting them with a white ball could only ever do good for your friendship.
 
@@ -25,7 +25,7 @@ A quite fun fact (but which got me a bit scared...) is that... well, I was havin
 
 The game continued playing just fine though, except for the audio. Take a look at the video I shoot (unfortunately, it doesn't catch the moment the glitch got triggered):
 
-<video src="/media/entries/pistol-pong-ds/glitch.mkv"></video>
+<video src="{{ '/media/entries/pistol-pong-ds/glitch.mkv' | absolute_url }}"></video>
 
 For the end of this review, here you can go and visit the official Git repository for the game (which is libre software under the GPL-3.0), where you can find the code and assets as well as the compiled .NDS ROM, for trying on your own terms: <https://github.com/Jonatan6/Pistol-Pong-DS>. Or, maybe, you can try the game via the embedded web emulator below for a quick evaluation, too! Give it a shot (get it?), really.
 

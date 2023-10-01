@@ -13,7 +13,7 @@ I think even the most casual young gamer knows about Pong. Being it the first ac
 
 This was, for me, up until my discovery of Pistol Pong DS. This homebrew game is very simple in concept, being almost a clone of the classic Pong, without any fancy visuals or improvements, except for one really unexpected gameplay mechanic: the NRA managed to convince us that we really do need something more in this game to defend ourselves from our adversaries; we need guns.
 
-Indeed, the entire gimmick of this reproposition is that we (and the other player, be it the computer or another user) have a pistol at our disposal, which can be used to try and take out our competitor, while at the same time trying to not let them score (or kill) us. You obviously move your paddle with the up and down keys on the d-pad... and, not quite as obviously (in fact, it took me several seconds to figure out),
+Indeed, the entire gimmick of this reproposition is that we (and the other player, be it the computer or another user) have a pistol at our disposal, which can be used to try and take out our competitor, while at the same time trying to not let them score (or kill) us. You obviously move your paddle with the up and down keys on the d-pad... and, not quite as obviously (in fact, it took me several seconds to figure out), shoot with the right d-pad key. Okay I guess, that's better than using the shoulder button, I can at least play this on my GBA Macro where the L button is broken.
 
 The gameplay is quite barebones, but I don't think that's bad – you can see a short GIF below. It's fun for a few minutes, but I would say the sound effects can sometimes get on my nerves, some are probably too loud. Sadly, there's no music, we're going full old-school here.
 
@@ -23,7 +23,7 @@ I couldn't try it, as I'm quite a lonely loli, but I bet the 2-player mode could
 
 A quite fun fact (but which got me a bit scared...) is that... well, I was having a simple game, and all of a sudden – I think because I did the very rare move where my bullet hit the enemy at the same time as the ball did, or at the same time as the ball went outside the field – the game's audio glitched, and there started the destruction of my ears due to the sound of that moment being played forever.
 
-The game continued playing just fine though, except for the audio. Take a look at the video I shoot (unfortunately, it doesn't catch the moment the glitch got triggered):
+The game continued playing just fine though, except for the audio. Take a look at the video I shot (unfortunately, it doesn't catch the moment the glitch got triggered):
 
 <video src="{{ '/media/entries/pistol-pong-ds/glitch.mp4' | absolute_url }}" controls="controls"></video>
 

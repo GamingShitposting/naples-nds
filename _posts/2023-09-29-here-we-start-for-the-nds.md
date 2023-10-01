@@ -1,8 +1,8 @@
 ---
 title: "Here we start, for the NDS."
 image:
-  path: "/media/craiyon_020855_girls_playing_with_a_nintendo_ds.webp"
-  thumbnail: "/media/craiyon_020855_girls_playing_with_a_nintendo_ds.webp"
+  path: "/media/covers/craiyon_020855_girls_playing_with_a_nintendo_ds.webp"
+  thumbnail: "/media/covers/craiyon_020855_girls_playing_with_a_nintendo_ds.webp"
   caption: "Picture from [Craiyon](https://craiyon.com)"
 author: octt
 last_modified_at: 2023-09-30

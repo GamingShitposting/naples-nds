@@ -1,8 +1,8 @@
 ---
 title: "Handheld Pong, now with firearms! (Pistol Pong DS)"
 image:
-  path: ""
-  thumbnail: ""
+  path: "/media/covers/craiyon_111643_pong_classic_1972_videogame_but_with_pistols__side_view_of_player_shooting__ball_in_frame.webp"
+  thumbnail: "/media/covers/craiyon_111643_pong_classic_1972_videogame_but_with_pistols__side_view_of_player_shooting__ball_in_frame.webp"
   caption: "Picture from [Craiyon](https://craiyon.com)"
 author: octt
 ---
